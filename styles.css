@@ -8,6 +8,7 @@ body {
     font-family: 'IBM Plex Sans', sans-serif;
     height: 1832px;
     width: 1440px ;
+    overflow-x: hidden;
 }
 
 body:hover {
